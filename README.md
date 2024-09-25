@@ -13,3 +13,23 @@ This automation reduces manual effort and ensures timely delivery of all confirm
 1. **Google Docs**: The script retrieves the respective confirmation letter from Google Docs (client or physician specific).
 2. **PDF Conversion**: It converts the document into PDF format using Google Apps Script.
 3. **Gmail Integration**: The PDFs are automatically emailed to either the clients (e.g., hospitals) or the physicians.
+
+### **Key Features**
+- **Automated PDF Creation**: Converts Google Docs into PDFs for both clients and physicians.
+- **Automated Emailing**: Sends the confirmation letters via Gmail.
+- **Dual Use Case**: Handles both client and physician workflows, ensuring timely and accurate letter distribution.
+
+### **How to Use**
+1. Clone the repository and open the script in Google Apps Script.
+2. Replace the placeholder document IDs and email addresses with your own.
+3. Deploy and execute the script to automate the sending of confirmation letters.
+
+### **Skills Demonstrated**
+- **Google Apps Script Automation**
+- **PDF Generation from Google Docs**
+- **Gmail Automation**
+- **Client and Physician Communication**
+
+### **Additional Information**
+- Example recipients include **Bay Health Hospital** and individual physicians.
+- Each letter is customized based on whether it's for a client or physician.
