@@ -2,16 +2,16 @@
 
 This repository contains a Google Apps Script project that automates the creation and distribution of operational docuements via integrating Google Docs and Gmail for both clients (e.g., Bay Health Hospital) and physicians. The script converts Google Docs into PDFs and sends them to the respective recipients via Gmail.
 
-### **Screenshots**
-![image](https://github.com/user-attachments/assets/d5cc0b1e-c591-46a3-9fa8-281c0a6025da)
-![image](https://github.com/user-attachments/assets/44d757dc-9e0f-4a6d-bbbf-f436d4b88a86)
-
 ### **Objective**
 To streamline the process of creating and sending confirmation letters by automating:
 - **Client Confirmation Letters** (e.g., Bay Health Hospital)
 - **Physician Confirmation Letters**
 
 This automation reduces manual effort and ensures timely delivery of all confirmation letters.
+
+### **Screenshots**
+![image](https://github.com/user-attachments/assets/d5cc0b1e-c591-46a3-9fa8-281c0a6025da)
+![image](https://github.com/user-attachments/assets/44d757dc-9e0f-4a6d-bbbf-f436d4b88a86)
 
 ### **How It Works**
 1. **Google Docs**: The script retrieves the respective confirmation letter from Google Docs (client or physician specific).
